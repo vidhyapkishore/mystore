@@ -1,6 +1,6 @@
 # MyStore - An E-commerce Web Application
 
-MyStore is an e-commerce web application built with React, Redux, and Django.
+MyStore is an e-commerce web application built with Bootstrap and Django.
 
 ## Features
 
@@ -39,16 +39,14 @@ python manage.py loaddata fixtures/*
 6. Run the development server:
 
 python manage.py runserver
+
 7. Open `http://localhost:8000/` in a web browser to access the application.
 
 ## Technologies Used
 
-- React
-- Redux
 - Django
-- PostgreSQL
 - Bootstrap
-- Django REST Framework
+- PostgreSQL
 
 ## Credits
 
